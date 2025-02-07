@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @OtavioFidencio24
+- 🎓 Graduated as Software Developer in 2023.
 - 👀 I’m interested in Back-end programming, sports, tech and videogames.
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently updating my Java Skills
 - 💞️ I’m looking to collaborate on open code.
 - 📫 How to reach me - otaviofidencioie@gmail.com
 
