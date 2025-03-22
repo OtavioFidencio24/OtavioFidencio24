@@ -2,7 +2,7 @@
 - 🎓 Graduated as Software Developer in 2023.
 - 👀 I’m interested in Back-end programming, sports, tech and videogames.
 - 🌱 I’m currently updating my Java Skills
-- 💞️ I’m looking to collaborate on open code.
+- 💞️ I’m looking for an oportunity as Java Junior.
 - 📫 How to reach me - otaviofidencioie@gmail.com or otaviofidencio@gmail.com
 
 <!---
