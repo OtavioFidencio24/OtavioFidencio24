@@ -41,7 +41,7 @@ Graduated in Software Development from USF Itatiba-SP (2023), I'm currently focu
 ### 📫 How to Reach Me
 
 - 📧 otaviofidencioie@gmail.com
-- 💼 [LinkedIn – Otavio Fidencio](https://www.linkedin.com/in/otaviofidencio/)
+- 💼 [LinkedIn – Otavio Fidencio](https://www.linkedin.com/in/otavio-fidencio-4b786221a)
 
 ---
 
